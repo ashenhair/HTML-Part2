@@ -1,2 +1,2 @@
-# PAT-KA-HTML-b-l-m-sonu-al-mas-
+# Patika - HTML - Bölüm Sonu Çalışması 2
 PATİKA /  HTML bölüm sonu çalışması/ part 2
